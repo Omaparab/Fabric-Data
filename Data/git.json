@@ -10,11 +10,6 @@
         "p_sink_file" : "AdventureWorks_Calendar.csv"
     },
     {
-        "p_rel_url" : "anshlambagit/Fabric-Tutorial/refs/heads/main/Data/AdventureWorks_Customers.csv",
-        "p_sink_folder" : "AdventureWorks_Customers",
-        "p_sink_file" : "AdventureWorks_Customers.csv"
-    },
-    {
         "p_rel_url" : "anshlambagit/Fabric-Tutorial/refs/heads/main/Data/AdventureWorks_Product_Subcategories.csv",
         "p_sink_folder" : "Product_Subcategories",
         "p_sink_file" : "AdventureWorks_Product_Subcategories.csv"
